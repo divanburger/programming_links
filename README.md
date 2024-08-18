@@ -4,4 +4,5 @@
  * [Graphics](graphics/index.md)
  * [Low-level](low_level/index.md)
  * [Memory management](memory_management/index.md)
+ * [Statistics](statistics/index.md)
  * [User Interfaces](ui/index.md)
