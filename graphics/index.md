@@ -3,6 +3,9 @@
 ## General
  * [Inigo Quilez articles](https://iquilezles.org/articles/)
 
+## Global Illumination
+ * [Fundamentals of Radiance Cascades](https://m4xc.dev/articles/fundamental-rc/)
+
 ## Raytracing
  * [smallpt: Global Illumination in 99 lines of C++](https://www.kevinbeason.com/smallpt/)
  * [Understanding the math behind ReStir DI](https://agraphicsguynotes.com/posts/understanding_the_math_behind_restir_di/)
